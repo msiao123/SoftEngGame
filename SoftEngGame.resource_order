@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"house_cutscene_2","order":2,"path":"rooms/house_cutscene_2/house_cutscene_2.yy",},
+    {"name":"school_cutscene_2","order":3,"path":"rooms/school_cutscene_2/school_cutscene_2.yy",},
+    {"name":"spr_mcRW","order":1,"path":"sprites/spr_mcRW/spr_mcRW.yy",},
+  ],
+}
