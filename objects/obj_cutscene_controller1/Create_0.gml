@@ -30,8 +30,11 @@ choice_selected = 0;
 choice_made = false;
 choice_result = -1;
 
-// Mood example stat
-player_mood = 0;
+if (!variable_global_exists("player_mood")) {
+    global.player_mood = 0;
+}
+player_mood = global.player_mood;
+
 
 // Helper
 dialogue_stage = 0;
